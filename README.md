@@ -52,8 +52,7 @@ You can also test the bot directly on Telegram.
 
 **@benjamincup_polymarket_bot[https://t.me/benjamincup_polymarket_bot]**
 
-<img width="458" height="305" alt="image" src="https://github.com/user-attachments/assets/5d59a2fd-400c-4e43-a49b-6b7cff6c4522" />
-
+<img width="463" height="308" alt="image" src="https://github.com/user-attachments/assets/1ca27ab4-f200-4e84-995a-075b7ff6c9a9" />
 
 ---
 
